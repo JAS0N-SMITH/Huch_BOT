@@ -117,7 +117,7 @@ for filename in os.listdir('./Cogs'):
 
 
 
-client.run("NTg3MjI5MTEzOTA3OTM3Mjgy.XPziLA.XyrOZJ0reSBOqQPS7McH9TUXQNc")
+client.run("")
 
 
 
